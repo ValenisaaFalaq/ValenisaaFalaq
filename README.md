@@ -1,12 +1,19 @@
-- 👋 Hai, saya @ValenisaaFalaq
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi there! I'm Valenisaa Falaq 👋 
 
-<!---
-ValenisaaFalaq/ValenisaaFalaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a D3 Informatics Engineering student at Politeknik Negeri Cilacap, passionate about coding, design, and turning ideas into reality. Currently, I'm diving deep into:
+
+💻 Backend & Web – PHP, HTML
+
+📱 Mobile & Frontend – Dart, Flutter
+
+⚙️ Software Development – C#, Java
+
+Always open to collaboration and learning new things
+
+📫 Reach me at :
+
+phone : 0813-2665-4551
+
+email : valenisaaf@gmail.com
+
+
